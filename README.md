@@ -1,8 +1,8 @@
 # UserRecon v1.0
-# Author: cyber kallan
-# https://github.com/cyberkallan/userrecon
+# Author: 3 RAY MECHS
+# https://github.com/3RAYMECHS/getinfo
 ## subscribe my YouTube 
-### https://www.youtube.com/channel/UClOU5rN6W_YBEOVQfrkqhmA
+### https://www.youtube.com/channel/c/3RAYMECHS
 
 Find usernames across over 75 social networks
 This is useful if you are running an investigation to determine the usage of the same username on different social networks.
@@ -16,7 +16,7 @@ This is useful if you are running an investigation to determine the usage of the
 ## Installation
 
 ``` 
-git clone https://github.com/cyberkallan/userrecon
+git clone https://github.com/3RAYMECHS/getinfo
 cd userrecon
 bash userrcon.sh
 
